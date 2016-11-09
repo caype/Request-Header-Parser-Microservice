@@ -1,0 +1,24 @@
+{
+  "name": "request-header-parser-microservice",
+  "version": "1.0.0",
+  "description": "Code for \"Request Header Parser Microservice\" API Challenge Free Code Camp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caype/Request-Header-Parser-Microservice.git"
+  },
+  "author": "Chaya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caype/Request-Header-Parser-Microservice/issues"
+  },
+  "homepage": "https://github.com/caype/Request-Header-Parser-Microservice#readme",  
+  "dependencies": {
+    "express": "^4.14.0",
+    "nodemon": "^1.11.0"
+  }
+}
